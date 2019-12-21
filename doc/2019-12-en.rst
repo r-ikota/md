@@ -1,0 +1,22 @@
+2019 (English)
+================
+
+
+2019-12-21
+----------------
+Since displaying maths in Markdown is a bit too hard, I rewrote the texts in reStructured text and processed them with Sphinx.
+I'm thinking of getting the documents to be published on `readthedocs <https://readthedocs.org/>`_. 
+G. Yamada explained how to do it in *Software Design* (Oct. 2015, in Japanese).
+
+This is a test for math.
+Is this :math:`\sin (x)` be displayed correctly?
+
+2019-12-12
+-------------
+
+In wsl on Windows I accidentally input the following:
+
+    $ code .
+
+Surprisingly wsl started to download VScode and then launched it.
+I learned that wsl could install VScode.
