@@ -9,7 +9,7 @@ I'm thinking of getting the documents to be published on `readthedocs <https://r
 G. Yamada explained how to do it in *Software Design* (Oct. 2015, in Japanese).
 
 This is a test for math.
-Is this :math:`\sin (x)` be displayed correctly?
+Is this :math:`\sin x` be displayed correctly?
 
 2019-12-12
 -------------
