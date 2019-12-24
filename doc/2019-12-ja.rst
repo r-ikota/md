@@ -1,6 +1,18 @@
 2019 (Japanese)
 =========================
 
+2019-12-24
+----------------
+近頃、科学研究などにおける官僚主義的非効率性に興味を持っている。
+次のものが関係していそう：
+
+  * `Research performance and bureaucracy within public research labs <https://link.springer.com/article/10.1007/s11192-009-0406-2>`_
+  * `Cutting Red Tape: National Strategies (PDF) <http://www.oecd.org/site/govgfg/39609018.pdf>`_
+  * `The Standard Cost Model: A framework for defining and quantifying administrative burdens for businesses (PDF) <https://ec.europa.eu/eurostat/documents/64157/4374310/11-STANDARD-COST-MODEL-DK-SE-NO-BE-UK-NL-2004-EN-1.pdf/>`_
+  * `Bureaucratic complexity and impacts of corruption in utilities <https://doi.org/10.1016/j.jup.2008.07.007>`_
+
+これらがどの程度妥当なものなのか私には分かりかねるが、こういった類の分析が日本の科学行政にも必要なのではないか。
+
 2019-12-21
 ----------------
 Markdown で数式表示をするのは面倒なので reStructuredText で記述し Sphinx を使うことにした。
@@ -8,7 +20,7 @@ Markdown で数式表示をするのは面倒なので reStructuredText で記�
 山田剛氏が *Software Design* で解説記事を書いている (Oct. 2015)。
 
 数式テスト。
-これ :math:`\sin (x)` はどうか？
+これ :math:`\sin x` はどうか？
 
 2019-12-12
 ----------------

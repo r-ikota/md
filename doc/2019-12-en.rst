@@ -1,6 +1,17 @@
 2019 (English)
 ================
 
+2019-12-24
+----------------
+I'm now interested in the issues of red tape in scientific activities.
+I find these are relevant:
+
+  * `Research performance and bureaucracy within public research labs <https://link.springer.com/article/10.1007/s11192-009-0406-2>`_
+  * `Cutting Red Tape: National Strategies (PDF) <http://www.oecd.org/site/govgfg/39609018.pdf>`_
+  * `The Standard Cost Model: A framework for defining and quantifying administrative burdens for businesses (PDF) <https://ec.europa.eu/eurostat/documents/64157/4374310/11-STANDARD-COST-MODEL-DK-SE-NO-BE-UK-NL-2004-EN-1.pdf/>`_
+  * `Bureaucratic complexity and impacts of corruption in utilities <https://doi.org/10.1016/j.jup.2008.07.007>`_
+
+Although I don't know how valid they are, such analyses are needed for Japan's science policies, I think.
 
 2019-12-21
 ----------------
@@ -9,7 +20,7 @@ I'm thinking of getting the documents to be published on `readthedocs <https://r
 G. Yamada explained how to do it in *Software Design* (Oct. 2015, in Japanese).
 
 This is a test for math.
-Is this :math:`\sin x` be displayed correctly?
+Is this :math:`\sin x` displayed correctly?
 
 2019-12-12
 -------------
