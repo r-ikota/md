@@ -1,6 +1,17 @@
 2020 (Japanese)
 ================
 
+2020-01-17
+--------------
+
+ネイチャーの記事によると、現時点での AI にはいくらか問題があるようだ。
+AI は間違った使い方をすると悲劇的な結果を招きかねない。
+
+   * `AI can be sexist and racist — it’s time to make it fair <https://www.nature.com/articles/d41586-018-05707-8>`_ (18 JULY 2018)
+   * `A fairer way forward for AI in health care <https://www.nature.com/articles/d41586-019-02872-2>`_ (25 SEPTEMBER 2019)
+   * `Millions of black people affected by racial bias in health-care algorithms <https://www.nature.com/articles/d41586-019-03228-6>`_ (24 OCTOBER 2019, UPDATE 26 OCTOBER 2019)
+   * `Why deep-learning AIs are so easy to fool <https://www.nature.com/articles/d41586-019-03013-5>`_ (09 OCTOBER 2019)
+
 2020-01-14
 --------------
 
