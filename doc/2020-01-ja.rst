@@ -1,6 +1,12 @@
 2020 (Japanese)
 ================
 
+2020-01-26
+--------------
+Jupyter の Docker コンテナのための `cookiecutter テンプレート <https://github.com/r-ikota/cookiecutter-jupyter-docker>`_ を作った。
+
+
+
 2020-01-17
 --------------
 

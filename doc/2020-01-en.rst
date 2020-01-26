@@ -1,6 +1,12 @@
 2020 (English)
 ================
 
+
+2020-01-26
+--------------
+I made `a cookiecutter template <https://github.com/r-ikota/cookiecutter-jupyter-docker>`_ for Jupyter Docker containers.
+
+
 2020-01-17
 --------------
 
