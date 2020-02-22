@@ -1,11 +1,23 @@
 2020 (English)
 ================
 
+2020-02-22
+---------------
+
+I find the movement described in this article interesting:
+`Science funders gamble on grant lotteries <https://www.nature.com/articles/d41586-019-03572-7>`_
+
+It is difficult to foresee which researches will succeed.
+So the random assignments of grants might perform better.
+This would also reduce workloads of both applicants and assesment panels.
 
 2020-01-26
 --------------
-I made `a cookiecutter template <https://github.com/r-ikota/cookiecutter-jupyter-docker>`_ for Jupyter Docker containers.
+I made `a cookiecutter template <https://github.com/r-ikota/cc-jupyter-docker>`_ for Jupyter Docker containers.
 
+P.S. (2020/02/22)：
+~~~~~~~~~~~~~~~~~~~~
+I have renamed the ropository because it was lengty.
 
 2020-01-17
 --------------

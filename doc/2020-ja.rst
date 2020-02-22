@@ -1,10 +1,22 @@
 2020 (Japanese)
 ================
 
+2020-02-22
+---------------
+
+この記事にあるような動きは興味深い：
+`Science funders gamble on grant lotteries <https://www.nature.com/articles/d41586-019-03572-7>`_
+
+どんな研究が成功するか事前に予見することは難しい。それならいっそランダムに研究費を割り当てた方がいいのかも知れない。
+これには申請書を書く側にも審査する側にも労力を削減する効果がある。
+
 2020-01-26
 --------------
-Jupyter の Docker コンテナのための `cookiecutter テンプレート <https://github.com/r-ikota/cookiecutter-jupyter-docker>`_ を作った。
+Jupyter の Docker コンテナのための `cookiecutter テンプレート <https://github.com/r-ikota/cc-jupyter-docker>`_ を作った。
 
+追記 (2020/02/22)：
+~~~~~~~~~~~~~~~~~~~~
+リポジトリ名が長いので変更した。
 
 
 2020-01-17
