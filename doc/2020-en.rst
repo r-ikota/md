@@ -7,9 +7,9 @@
 I find the movement described in this article interesting:
 `Science funders gamble on grant lotteries <https://www.nature.com/articles/d41586-019-03572-7>`_
 
-It is difficult to foresee which researche projects will succeed.
+It is difficult to foresee which research projects will succeed.
 So the random assignment of grants might perform better.
-This would also reduce workloads of both applicants and assesment panels.
+This would also reduce workloads of both applicants and assessment panels.
 
 2020-01-26
 --------------
@@ -17,13 +17,13 @@ I made `a cookiecutter template <https://github.com/r-ikota/cc-jupyter-docker>`_
 
 P.S. (2020/02/22)：
 ~~~~~~~~~~~~~~~~~~~~
-I have renamed the ropository because it was lengty.
+I have renamed the repository because it was lengthy.
 
 2020-01-17
 --------------
 
 According to Nature's articles, there seem to be some problems with AI at present.
-AI could cause disasterous results if it is used in a wrong way.
+AI could cause disastrous results if it is used in a wrong way.
 
    * `AI can be sexist and racist — it’s time to make it fair <https://www.nature.com/articles/d41586-018-05707-8>`_ (18 JULY 2018)
    * `A fairer way forward for AI in health care <https://www.nature.com/articles/d41586-019-02872-2>`_ (25 SEPTEMBER 2019)
@@ -34,4 +34,4 @@ AI could cause disasterous results if it is used in a wrong way.
 --------------
 
 Every time I hear of the expensive subscription and publication fees for electronic journals, 
-I wonder if it would be more cost-effective to use goverment spending for running public open access journals than for paying commercial publishers.
+I wonder if it would be more cost-effective to use government spending for running public open access journals than for paying commercial publishers.
