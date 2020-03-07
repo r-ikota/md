@@ -7,7 +7,9 @@ version: 2
 
 # Build documentation in the docs/ directory with Sphinx
 sphinx:
-  configuration: conf4rtd.py
+    builder: html
+    configuration: conf4rtd.py
+    fail_on_warning: true
 
 # Build documentation with MkDocs
 #mkdocs:
