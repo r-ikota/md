@@ -1,6 +1,14 @@
 2020 (English)
 ================
 
+2020-03-09
+-------------
+I really enjoyed reading `an article on the history of scipy <https://www.nature.com/articles/s41592-019-0686-2>`_ .
+I agree with a view presented in it.
+It is because Python is a general-purpose language that it is widely used in data science.
+So Julia might not be dominant in data science.
+That said, Julia is a promising language for scientific computation and I'm interested in it.
+
 2020-02-22
 ---------------
 
@@ -10,6 +18,7 @@ I find the movement described in this article interesting:
 It is difficult to foresee which research projects will succeed.
 So the random assignment of grants might perform better.
 This would also reduce workloads of both applicants and assessment panels.
+
 
 2020-01-26
 --------------
