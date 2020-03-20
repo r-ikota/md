@@ -1,6 +1,13 @@
 2020 (English)
 ================
 
+2020-03-20
+-----------
+
+Some economic policies are suggested in the world to fight against the economic crisis in the pandemic of COVID19.
+   * `Thoughts on the Pandemic (2020/03/13) <https://gregmankiw.blogspot.com/2020/03/thoughts-on-pandemic.html>`_
+   * `Germany Ready to Ditch Balanced Budget to Combat Coronavirus (2020/03/12) <https://www.bloomberg.com/news/articles/2020-03-12/germany-ready-to-ditch-balanced-budget-to-combat-coronavirus>`_
+
 2020-03-09
 -------------
 I really enjoyed reading `an article on the history of scipy <https://www.nature.com/articles/s41592-019-0686-2>`_ .
