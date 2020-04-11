@@ -1,6 +1,25 @@
 2020 (Japanese)
 ================
 
+2020-04-11
+----------
+
+気になる記事をピックアップ。
+
+* `「このままでは8割減できない」 「8割おじさん」こと西浦博教授が、コロナ拡大阻止でこの数字にこだわる理由 <https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-nishiura?utm_source=dynamic&utm_campaign=bfsharetwitter>`_ (2020/04/11)
+
+  * かなり細かい計算に基づいて8割削減ということらしい。内情についても色々と書いてある。
+
+* AppleとGoogle、新型コロナウイルス対策として、濃厚接触の可能性を検出する技術で協力
+
+  * `Apple <https://www.apple.com/jp/newsroom/2020/04/apple-and-google-partner-on-covid-19-contact-tracing-technology/>`_ (2020/04/10)
+  * `Google <https://japan.googleblog.com/2020/04/apple-and-google-partner-covid-19-contact-tracing-technology.html>`_ (2020/04/11)
+
+* `在宅勤務なのにハンコを押すために出社… <https://www3.nhk.or.jp/news/html/20200411/k10012381401000.html>`_  (2020/04/11)
+* `遠隔授業を阻む著作権の問題をクリアにする「授業目的公衆送信補償金制度」とは？ <https://hon.jp/news/1.0/0/29231>`_ (2020/04/09)
+* `埼玉県 ホテルを一時的な滞在施設に 軽症患者など移送へ <https://www3.nhk.or.jp/news/html/20200411/k10012381691000.html>`_ (2020/04/11)
+* `テレワークでトラブりがちなビデオ会議を快適に! Windowsのマイク周りの設定を解説 <https://pc.watch.impress.co.jp/docs/column/ubiq/1245991.html>`_ (2020/04/08)
+
 2020-04-10
 ----------
 
