@@ -1,6 +1,23 @@
 2020 (Japanese)
 ================
 
+気になった記事など：
+
+2020-04-23
+----------
+
+* `新型コロナウイルス(SARS-CoV-2)と戦う半導体技術(1) ～なぜ伝染しやすいのか、そして終息への道筋は <https://pc.watch.impress.co.jp/docs/column/kaigai/1248879.html>`_ (2020/04/23)
+
+  * よくまとまっているが、封じ込め（Suppression）と緩和（Mitigation）を少し誤解しているように見える。Imperial College London レポートの原文を読む限り、封じ込めは、厳しい規制によって R0 < 1 にして新規感染者数を減らすことであり、緩和はゆるい規制で R0 > 1 になることを許容して感染拡大の速度を遅くしながら社会・経済へのダメージを小さくすることだろう。日本の場合、封じ込めは緊急事態宣言で、緩和はクラスター対策になるのだろうか。これを繰り返し続けることになるのかも。どうなることやら。
+
+* `Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand <https://spiral.imperial.ac.uk/handle/10044/1/77482>`_ (2020/03/16)
+
+  * Imperial College London のレポート
+
+* `接触８割減へ「10のポイント」 専門家会議が示す 新型コロナ <https://www3.nhk.or.jp/news/html/20200422/k10012400721000.html>`_ (2020/04/22)
+* `揺らぐ１強、力学変化　コロナで混迷、安倍政権 <https://www.jiji.com/jc/article?k=2020041800283&g=pol>`_ (2020/04/18)
+* `新型コロナウイルスの影響を受ける文化芸術関係者に対する支援情報窓口（文化庁） <https://www.bunka.go.jp/koho_hodo_oshirase/sonota_oshirase/2020020601.html>`_ 
+
 2020-04-22
 ----------
 
