@@ -8,7 +8,7 @@
 
 * `新型コロナウイルス(SARS-CoV-2)と戦う半導体技術(1) ～なぜ伝染しやすいのか、そして終息への道筋は <https://pc.watch.impress.co.jp/docs/column/kaigai/1248879.html>`_ (2020/04/23)
 
-  * よくまとまっているが、封じ込め（Suppression）と緩和（Mitigation）を少し誤解しているように見える。Imperial College London レポートの原文を読む限り、封じ込めは、厳しい規制によって R0 < 1 にして新規感染者数を減らすことであり、緩和はゆるい規制で R0 > 1 になることを許容して感染拡大の速度を遅くしながら社会・経済へのダメージを小さくすることだろう。日本の場合、封じ込めは緊急事態宣言で、緩和はクラスター対策になるのだろうか。これを繰り返し続けることになるのかも。どうなることやら。
+  * よくまとまっているが、封じ込め（Suppression）と緩和（Mitigation）を少し誤解しているように見える。Imperial College London レポートの原文を読む限り、封じ込めは、厳しい規制によって R < 1 にして新規感染者数を減らすことであり、緩和はゆるい規制で R > 1 になることを許容して感染拡大の速度を遅くしながら社会・経済へのダメージを小さくすることだろう。日本の場合、封じ込めは緊急事態宣言で、緩和はクラスター対策になるのだろうか。これを繰り返し続けることになるのかも。どうなることやら。（注： R0 を R に修正 2020/04/24）
 
 * `Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand <https://spiral.imperial.ac.uk/handle/10044/1/77482>`_ (2020/03/16)
 
