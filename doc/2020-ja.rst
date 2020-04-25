@@ -1,10 +1,37 @@
 2020 (Japanese)
 ================
 
-気になった記事など：
+2020-04-25
+----------
+
+紙ベースのワークフローが非効率性を生み出しているように見える。次の記事はこういった問題に対するイギリスの医療における2012年の取り組みを紹介している。
+
+  `The Burden of Beureaucracy <https://journals.rcni.com/doi/abs/10.7748/ns2012.03.26.30.22.p7892>`_ (Nursing Standard vol. 26, no. 30 2012, pp. 22-24.)
+
+  看護師の書類仕事の業務の生産性向上について論じている。
+  キャメロン首相（当時）は書類仕事と官僚主義の非効率性改善に取り組む中で、NHS（国民医療サービス）の生産性向上にも取り組んだ。
+  紙ベースの作業分配プロセスを中央集中化システムに変更することで1日あたり90分以上の時間を節約できた医療チームもあったとか。
+
+
+Onenote のクラスノートブックは面白そう。
+
+  * `OneNote でクラス ノートブックを作成する <https://support.office.com/ja-jp/article/onenote-でクラス-ノートブックを作成する-5d30ac45-dc22-4399-a80a-700ce7d18d11>`_ 
+  * `OneNote Class Notebook を使ってみる: 教師向けデモ <https://support.microsoft.com/ja-jp/office/onenote-class-notebook-を使ってみる-教師向けデモ-28666b8e-b0ae-48fe-b001-1874f5f6db58?ui=ja-jp&rs=ja-jp&ad=jp>`_ 
+  * `児童生徒のノート管理がスムーズに！OneNote Class Notebook <https://youtu.be/Nw8zj5q72wM>`_ (2018/02/21 YouTube)
+  * `OneNote Class Notebook + Microsoft Teams <https://youtu.be/NhbvBnsLcSs>`_ (2018/10/16 YouTube)
+
+その他気になった記事：
+
+  * `楽天のPCR検査キットに専門医らから批判殺到 楽天の見解は？ <https://www.buzzfeed.com/jp/naokoiwanaga/rakuten-pcr>`_ (2020/04/23)
+  * `「全国民のセルフPCR検査」を政府に勧める楽天の狙いは？　厚労省は「非現実的」、医療者は「不安商法の延長」 <https://www.buzzfeed.com/jp/naokoiwanaga/covid-19-rakuten-2>`_ (2020/04/24)
+  * `最も人命を奪うのは､｢感染症｣ではなく｢間違った経済政策｣である <https://president.jp/articles/-/34659>`_ (2020/04/23)
+  * `新型コロナ　緊急事態、強まる延長論　専門家会議 <https://mainichi.jp/articles/20200423/ddm/003/040/031000c>`_ (2020/04/23)
+  
 
 2020-04-23
 ----------
+
+気になった記事など：
 
 * `新型コロナウイルス(SARS-CoV-2)と戦う半導体技術(1) ～なぜ伝染しやすいのか、そして終息への道筋は <https://pc.watch.impress.co.jp/docs/column/kaigai/1248879.html>`_ (2020/04/23)
 
