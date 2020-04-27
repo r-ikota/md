@@ -1,6 +1,38 @@
 2020 (Japanese)
 ================
 
+2020-04-27
+----------
+
+新型コロナウィルス関連のデータ公開を巡って気になった記事など：
+
+  * `データ解析を民主化せよ　新型コロナで重み増す「オープンデータ」 <https://business.nikkei.com/atcl/seminar/19/00058/041400047/>`_ (2020/04/16)
+
+    * 役所が PDF フォーマットでデータを公開しているため、市民や民間によるデータ解析が非効率的なものになっているとして問題提起をしている
+
+  * `東京の新型コロナのPCR検査は増加中、システム化・自動化が急務です <https://fujiiakira.tokyo/20200417-tokyo-pcr-test-need-digitalization/>`_ (2020/04/17)
+
+    * 保健所業務は結構アナログであるらしい。
+
+  * `米ジョンズ・ホプキンス大 コロナ特設サイト 信頼性高いと注目 <https://www3.nhk.or.jp/news/html/20200426/k10012406071000.html>`_ (2020/04/26)
+
+    * ジョンズ・ホプキンス大学のデータ公開特設サイトの紹介
+    * `データ公開サイト（PC版） <https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6>`_ 
+    * `データ公開サイト（スマホ版） <https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61>`_
+
+  * `2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE <https://github.com/CSSEGISandData/COVID-19>`_ 
+
+    * ジョンズ・ホプキンス大学のコロナデータを公開している github リポジトリ
+
+  * `新型コロナウイルス国内感染の状況 <https://toyokeizai.net/sp/visual/tko/covid19/>`_ 
+
+    * 東洋経済オンラインのサイトで、国内コロナ感染状況をわかりやすいグラフで表示している
+
+  * `47都道府県と県庁所在市、政令指定都市の来訪者と往訪者の日次前年比を一時的に公開します <https://ds.yahoo.co.jp/topics/202004202.html>`_ (2020/04/20)
+
+    * ヤフー・データソリューションが人の移動データを公開している
+
+
 2020-04-25
 ----------
 
