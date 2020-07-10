@@ -1,6 +1,37 @@
 2020 (Japanese)
 ================
 
+2020-07-10
+----------
+
+* `米の感染者 300万人に迫る 死者13万人超「非常に深刻」 コロナ <https://www3.nhk.or.jp/news/html/20200707/k10012501181000.html>`_ (2020/07/07)
+
+  * `米国の人口が日本の2.6倍ほどであること <https://www.mofa.go.jp/mofaj/kids/ranking/jinko_o.html>`_ を勘定に入れる必要はあるが、米国の状況を見ていると、日本で何も対策をしなかった場合に最悪で数十万人が死亡するという話はそれほど大袈裟では無かったのではないかと思えてくる。対策をしないということ自体がありえない想定といえばその通りだけれども。
+
+* `【独自】流行前の生活に戻すと「都内の感染１日１００人」…西浦教授ら試算 <https://www.yomiuri.co.jp/national/20200603-OYT1T50064/>`_  (2020/06/03)
+
+  * 1か月前の試算。100人どころか、`今日は243人 <https://www3.nhk.or.jp/news/html/20200710/k10012507891000.html?utm_int=news_contents_news-main_003>`_ とのこと。
+
+* `新型コロナウイルス接触確認アプリのインストールをお願いします <https://www.pref.yamanashi.jp/kenko-zsn/corona/sessyokuapp.html>`_ 
+
+  * 山梨県では、アプリで接触が確認された人は全員PCR検査を受けられるとのこと。
+
+* `まさかの岩手県がトップ！　接触確認アプリ「COCOA」インストール率 <https://www.itmedia.co.jp/business/articles/2007/02/news052.html>`_ (2020/07/02)
+
+  * 山梨県は４位。
+
+* `山梨県は健康寿命　過去3回の調査平均で全国第1位！！ <https://www.pref.yamanashi.jp/kenko-zsn/index.html>`_
+
+* `コロナ危機、際立つ官邸主導　制御不能に焦り、増幅する不信感―緊急事態３カ月 <https://www.jiji.com/jc/article?k=2020070600282&g=pol>`_ (2020/07/06)
+
+* `Nature wades through the literature on the new coronavirus — and summarizes key papers as they appear. <https://www.nature.com/articles/d41586-020-00502-w>`_
+
+  * Nature がコロナウィルス関連のプレプリントを要約している。
+
+* `Test sensitivity is secondary to frequency and turnaround time for COVID-19 surveillance <https://www.medrxiv.org/content/10.1101/2020.06.22.20136309v2>`_  (2020/06/27)
+
+  * プレプリント。感染拡大を防ぐ上で、調査的な検査は、感度よりも頻度の方が重要とのこと。全住民を対象に週に1、2回検査を実行するなどということはあまり現実的とは思えないが、ハイリスクな職場（夜の街、病院、高齢者施設）などで従業員を対象に週2回の検査を実施するなどはできそうに思える。どうだろう。
+
 2020-05-03
 ----------
 
