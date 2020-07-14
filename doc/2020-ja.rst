@@ -1,6 +1,26 @@
 2020 (Japanese)
 ================
 
+2020-07-14
+----------
+
+* `英首相が財政支出の意義訴え、今こそ「ニューディール」的対応を <https://jp.mobile.reuters.com/article/amp/idJPKBN2400YT>`_ (2020/06/29)
+
+  * 「財政支出を拡大する方針を示し、緊縮路線への回帰は誤りだ」とのこと。必要な財政支出をしないで企業が潰れたり失業者が増えたりすると将来の税収を減らすことにつながり、結局は財政にとってマイナスになるような気がするので、これでいいのかも。
+
+* `Is New Zealand's government spending a window into Europe's financial future? <https://www.euronews.com/2020/05/14/new-zealand-s-debt-to-soar-to-counter-covid-19-europe-s-will-too>`_ (2020/05/15)
+
+  * ニュージーランドは今後4年間に渡って、500億ニュージーランドドルを景気浮揚に費やすとのことで、結果として公的債務は2023年にGDP比で20％から54％になるものと予想されている。この動きはニュージランドに限ったことではないが、アントニオ・ファタス教授によると、ヨーロッパで公的債務が増えても悪い影響はあまりなさそうだ。サマーズ教授によると `日本の公的債務は統合政府で見ると大したことはない <https://www.asahi.com/amp/articles/ASMD42400MD4UHBI00F.html>`_ ようなので、歳出拡大の余地はありそうに思えるのだけれども、どうなんだろう。ただ、日本はニュージーランドと違ってコロナを押さえ込めているわけではないので、するべきは景気対策ではなく休業補償や所得補償なんだろう。
+
+* `COVID-19 economic response <https://treasury.govt.nz/information-and-services/nz-economy/covid-19-economic-response>`_
+
+  * ニュージーランド財務省による、コロナ対応経済政策の説明。TE TAI OHANGA というのは `マオリ語 <https://treasury.govt.nz/news-and-events/news/gabriel-makhlouf-speech-re-awakening-treasurys-wharenui>`_ らしい。 
+
+
+* `How should fiscal policy respond to the coronavirus (covid-19)? <https://www.ifs.org.uk/publications/14746>`_ (2020/03/08)
+
+  * 4か月前のイギリスの記事。コロナ対策の経済政策として政府がすべきことは、3つあるとのこと。一つ目は、この短期的な出来事が長期的な恐るべき結果をもたらさないように、影響を受けたビジネスをサポートすること。二つ目は、所得を失った個人をサポートすること。三つ目は、公的サービスの提供を保障すること。
+
 2020-07-10
 ----------
 
