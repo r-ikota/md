@@ -1,6 +1,32 @@
 2020 (Japanese)
 ================
 
+2020-07-17
+----------
+
+* カリフォルニア州で感染が再拡大しているらしい。
+
+  * `米カリフォルニア州､コロナ感染急増で規制再導入　バー営業停止､レストラン店内飲食禁止 <https://www.newsweekjapan.jp/stories/world/2020/07/post-93838.php>`_ (2020/07/02)
+  * `カリフォルニア州で新型コロナ感染者が急増、厳しい対策でもなぜ？ <https://www.technologyreview.jp/s/211148/theres-not-one-reason-californias-covid-19-cases-are-soaring-there-are-many/>`_ (2020/07/06)
+  * `経済活動を再開した米国は、こうして新型コロナウイルスの“危険地帯”へと逆戻りし始めた <https://wired.jp/2020/07/11/coronavirus-cases-usa/>`_ (2020/07/11)
+
+* `カリフォルニア州、新型コロナの検査件数を5倍に拡大へ <https://www.technologyreview.jp/s/201332/california-aims-to-quintuple-its-coronavirus-testing/>`_ (2020/04/24)
+
+  * 検査は拡大はしていたらしい。
+
+* `カリフォルニア大学バークレー校が唾液によるPCR検査を試行 <https://jp.techcrunch.com/2020/07/03/2020-07-02-berkeleys-innovative-genomics-institute-is-rolling-out-a-spit-test-for-covid-19-testing/>`_ (2020/07/03)
+
+  * 「同校が試行している新たな唾液ベースの検査は、被験者の感染を調べる検査を実施するために、訓練を受け個人防護具を着用した医療従事者を必要としない」とのこと。これなら繰り返し頻繁に検査することができるかも。
+
+* `唾液使ったPCR検査 無症状の人も対象に 厚労省 <https://www3.nhk.or.jp/news/html/20200717/k10012520241000.html>`_ (2020/07/17)
+
+  * 日本でも唾液を使ったPCR検査が行われるらしい。
+
+* `山中伸弥による新型コロナウイルス情報発信 <https://www.covid19-yamanaka.com/index.html>`_
+
+  * 山中伸弥教授のページ。
+
+
 2020-07-16
 ----------
 
