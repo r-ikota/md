@@ -1,6 +1,27 @@
 2020 (Japanese)
 ================
 
+2020-07-25
+----------
+
+赤字国債を財源に交付金を地方自治体に配って、地方自治体はそれを使って保障付き休業要請を行うということはできないのだろうか。
+国債暴落も財政破綻も起きそうにはないが、感染爆発は起こり得る。
+
+気になった記事など
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `新型コロナ マスク着用による感染予防の最新エビデンス <https://news.yahoo.co.jp/byline/kutsunasatoshi/20200723-00189530/>`_ (2020/07/23)
+
+  * マスクには効果があることがわかってきたとの事。
+
+* `False-negative testing for severe acute respiratory syndrome coronavirus 2: consideration in obstetrical care <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7187860/>`_ (Am J Obstet Gynecol MFM. 2020 Apr 28)
+
+  * 産科でのコロナ検査偽陰性の問題を論じている。色々と書かれているが、検査に関しては感染疑いがある場合、陽性を確かめるには3回から5回の検査が必要かもと書いてある。
+
+* `Universal weekly testing as the UK COVID-19 lockdown exit strategy <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30936-3/fulltext>`_ (The Lancet Journal, VOLUME 395, ISSUE 10234, P1420-1421, MAY 02, 2020)
+
+  * ロックダウンと制限緩和を交互に繰り返す策の代替案として、全住民の毎週検査を提案している。本当にやるのだろうか。
+
 2020-07-23
 ----------
 
