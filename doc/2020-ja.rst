@@ -1,6 +1,21 @@
 2020 (Japanese)
 ================
 
+2020-07-28
+----------
+
+* `Saliva is more sensitive for SARS-CoV-2 detection in COVID-19 patients than nasopharyngeal swabs <https://www.medrxiv.org/content/10.1101/2020.04.16.20067835v1>`_ (medRsiv, Posted April 22, 2020.)
+
+  * 唾液を使った検査は綿棒を使った検査よりもいいらしい。
+
+* `Saliva-based PCR tests for SARS-CoV-2 detection <https://www.jstage.jst.go.jp/article/josnusd/62/3/62_20-0267/_article/-char/ja/>`_ (Journal of Oral Science, 2020 Volume 62 Issue 3 Pages 350-351)
+
+  * 綿棒を喉や鼻に挿入する方法は、医療従事者が感染する恐れがあったり、検査を受ける側も不快であったりと色々と欠点があるが、唾液の採取はコロナを検出するのに信頼できる検体である可能性があるらしい。
+
+* `City in UK takes steps to test entire population for coronavirus <https://www.newscientist.com/article/2246880-city-in-uk-takes-steps-to-test-entire-population-for-coronavirus/>`_ (2020/06/24)
+
+  * イギリスの都市サウスハンプトンで、数千人の住民のコロナウィルス検査を毎週行うとの事。うまく行ったら、都市の住民全体に対象を広げて感染拡大を急速に封じ込めることができるか確かめる。唾液を採取して RT-LAMP 法で検査する。安くて早くて信頼できるという、どこかの牛丼のような話だ。うまくいくと良いのだが、どうなるだろう。
+
 2020-07-25
 ----------
 
@@ -612,7 +627,7 @@ Python がデータサイエンスで広く使われているのは、Python が
 Jupyter の Docker コンテナのための `cookiecutter テンプレート <https://github.com/r-ikota/cc-jupyter-docker>`_ を作った。
 
 追記 (2020/02/22)：
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 リポジトリ名が長いので変更した。
 
 
