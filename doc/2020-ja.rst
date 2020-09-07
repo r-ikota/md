@@ -1,6 +1,14 @@
 2020 (Japanese)
 ===============
 
+2020-09-07
+----------
+
+`Jupyter Notebook Tools for Sphinx <https://nbsphinx.readthedocs.io/en/latest/index.html>`_ を使ってみた。結果は `こちら <notebook/sample-200907.html>`_ 。
+とても良い。
+現時点では、sympy の出力する数式を mathjax で表示することはできないようだが、今後に期待したい。
+
+
 2020-08-12
 ----------
 

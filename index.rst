@@ -14,6 +14,7 @@ Blog or something like that
    doc/2020-en
    doc/2019-12-ja
    doc/2019-12-en
+   doc/notebook/sample-200907
    doc/license
 
 

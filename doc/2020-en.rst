@@ -1,6 +1,15 @@
 2020 (English)
 ================
 
+2020-09-07
+----------
+
+I tried `Jupyter Notebook Tools for Sphinx <https://nbsphinx.readthedocs.io/en/latest/index.html>`_ .
+The result is `here <notebook/sample-200907.html>`_  .
+This is great.
+Although at present it seems that the extension cannnot display outputs of sympy with mathjax,
+I hope it will be able to do in the future.
+
 2020-03-20
 -----------
 
