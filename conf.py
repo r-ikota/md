@@ -31,7 +31,7 @@ author = 'Ryo Ikota'
 # ones.
 # extensions = ['recommonmark']
 # extensions = [ 'sphinxcontrib.spelling' ]
-extensions = ['nbsphinx','sphinx.ext.mathjax', 'pygments_pytest']
+extensions = ['nbsphinx','sphinx.ext.mathjax']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
