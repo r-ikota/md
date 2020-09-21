@@ -1,2 +1,4 @@
 ipykernel
 nbsphinx
+Pygments==2.6.1
+pygments-pytest>=1.1.0
