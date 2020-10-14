@@ -1,6 +1,26 @@
 2020 (English)
 ================
 
+2020-10-14
+----------
+
+Articles showing that useless knowledge can be useful
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `Let’s waste more money on science <https://www.bostonglobe.com/ideas/2016/12/11/let-waste-more-money-science/afvbusk8G5T5IcrgldkmJJ/story.html>`_ (2016/12/11)
+
+  * A story that the article mentioned impressed me. A biologist's curiosity made him investigate microbes in Yellowstone National Park. Through many scientists' efforts, the study led to the developement of PCR tests, which are now used to test people for Covid-19.
+
+* `From Blackboard to Bedside: High-dimensional Geometry is Transforming the MRI Industry (PDF) <https://www.ams.org/journals/notices/201801/rnoti-p40.pdf>`_ (2018/01)
+
+  * Mathematical research driven by pure curiosity improved MRI. Through this story the author explains how basic research is worth investment for taxpayers.
+
+An update on a repository
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+Modifications for `a repository of a cookiecutter template <https://github.com/r-ikota/cc-jupyter-docker>`_ were pushed.
+
+
 2020-09-07
 ----------
 
