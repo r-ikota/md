@@ -1,6 +1,44 @@
 2020 (Japanese)
 ===============
 
+2020-11-26
+-----------
+
+コロナウィルス検査について気になった記事
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `‘We didn’t model that people would go to a party if they tested positive’ <https://www.nature.com/articles/d41586-020-02611-y>`_ (2020/9/11)
+
+  * 週2回の検査をイリノイ大学で実施したとのこと。最初は、検査で陽性になっていてそれを知っているにも関わらずパーティーに参加した学生が少数いたために、感染者が急増したらしい。しかし、その後対応を修正したために感染者数は減少したとのこと。
+
+* `Mass-testing project in Liverpool offers hope for the whole of England <https://www.theguardian.com/uk-news/2020/nov/21/liverpool-mass-testing-finds-hundreds-with-covid-19-but-no-symptoms>`_ (2020/11/21)
+
+  * リバプールでの大量頻回迅速検査の試験導入はうまく行ったらしい。最後に偽陽性の問題点にも言及している。
+
+* `Ontario Deploys Rapid Testing to Support COVID-19 Response <https://news.ontario.ca/en/release/59330/ontario-deploys-rapid-testing-to-support-covid-19-response>`_ (2020/11/24)
+
+  * カナダのオンタリオで迅速抗原検査を導入するらしい。
+
+* `Slovakia to test all adults for SARS-CoV-2 <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32261-3/fulltext>`_ (2020/10/31)
+
+  * スロバキアでの国民大量検査の計画について。感染症専門家の中には、大量検査の危険性を指摘する人もいるようだ。
+
+* `How We Can Stop the Spread of COVID-19 By Christmas <https://time.com/5912705/covid-19-stop-spread-christmas/>`_ (2020/11/17)
+
+  * 大量頻回検査をすることについて。うまくいくのだろうか。
+
+* `Slovakia to Repeat Nationwide Mass Virus Testing, Premier Says <https://www.bloomberg.com/news/articles/2020-11-19/slovakia-to-repeat-nationwide-mass-virus-testing-premier-says>`_ (2020/11/19)
+
+  * スロバキアでは新規感染者は10月29日にピークで3,363人だったが、火曜日には1,665人になったとのこと。この火曜日というのは11月17日のことだろうか？迅速抗原検査を繰り返すらしい。
+
+その他気になった記事
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `「GoToトラベル」と感染拡大の因果関係について考える <https://www.m3.com/open/iryoIshin/article/845371/>`_ (2020/11/22)
+* `「ＧｏＴｏ東京追加で道内の感染加速」　脇田・国立感染症研究所長 <https://www.hokkaido-np.co.jp/sp/amp/article/482243>`_ (2020/11/17)
+* `イギリス版Go To Eat、コロナ流行拡大の原因だった──英調査結果 <https://www.newsweekjapan.jp/stories/world/2020/11/go-to-eat-1.php>`_ (2020/11/02)
+* `Pregnant women with Covid-19 face higher risk of severe illness and death, study says <https://edition.cnn.com/2020/11/03/health/pregnancy-covid-risks-wellness/index.html>`_ (2020/11/03)
+
 2020-10-14
 ----------
 

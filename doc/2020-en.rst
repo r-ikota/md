@@ -39,6 +39,7 @@ Some economic policies are suggested in the world to fight against the economic 
 
 2020-03-09
 -------------
+
 I really enjoyed reading `an article on the history of scipy <https://www.nature.com/articles/s41592-019-0686-2>`_ .
 I agree with a view presented in it.
 It is because Python is a general-purpose language that it is widely used in data science.
@@ -58,10 +59,12 @@ This would also reduce workloads of both applicants and assessment panels.
 
 2020-01-26
 --------------
+
 I made `a cookiecutter template <https://github.com/r-ikota/cc-jupyter-docker>`_ for Jupyter Docker containers.
 
 P.S. (2020/02/22)：
 ~~~~~~~~~~~~~~~~~~~~
+
 I have renamed the repository because it was lengthy.
 
 2020-01-17
