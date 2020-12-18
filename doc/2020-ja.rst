@@ -1,6 +1,57 @@
 2020 (Japanese)
 ===============
 
+2020-12-18
+-----------
+
+コロナ関連で気になった記事
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `スウェーデン国王「新型コロナ対策は失敗だった」感染が急拡大 <https://www3.nhk.or.jp/news/html/20201218/k10012770601000.html>`_ (2020/12/18)
+
+  * 強い感染症対策を取らなかったためにスウェーデンでは多数の死者が出ているらしい。
+
+* `Sweden’s Covid Workers Are Quitting in Dangerous Numbers <https://www.bloomberg.com/news/articles/2020-12-12/swedish-covid-workers-are-quitting-leaving-icus-short-staffed>`_  (2020/12/12)
+
+  * スウェーデンでは、コロナ対応に疲れ果てた医療従事者が次々と辞めていっているらしい。
+
+* `新型コロナ アメリカで死者の数 30万人超える <https://www3.nhk.or.jp/news/html/20201215/k10012764761000.html>`_ (2020/12/15)
+
+  * アメリカで死者が30万人を超えた。
+
+* `アメリカのコロナ死者、第二次世界大戦の戦死者数を超える。ピッツバーグの人口とはほぼ同じ <https://www.msn.com/ja-jp/news/world/アメリカのコロナ死者-第二次世界大戦の戦死者数を超える-ピッツバーグの人口とはほぼ同じ/ar-BB1bZXcp?ocid=msedgdhp>`_ (2020/12/17)
+
+  * 第二次世界大戦の戦死者を超えたとのこと。
+
+* `新型コロナからいのちを守れ！ 特設サイト 中央公論新社 <https://www.chuko.co.jp/special/covid19/>`_ 
+
+  * 書籍の特別サイトとのこと。
+
+コロナ検査について気になった情報
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `The effectiveness of population-wide, rapid antigen test based screening in reducing SARS-CoV-2 infection prevalence in Slovakia <https://cmmid.github.io/topics/covid19/Slovakia.html>`_ (2020/11/28)
+
+  * スロバキアでは国民規模での抗原検査を複数回実施したが、その効果を検証した未査読研究。
+  * `データ分析のコード <https://github.com/sbfnk/covid19.slovakia.mass.testing>`_
+  * `シミュレーションのコード <https://github.com/kevinvzandvoort/covid_svk>`_
+  * 迅速抗原検査の開発に伴いコロナウィルス感染の全住民スクリーニングが実現可能となり、非感染者に対する負担を限定しつつ感染拡大を減らせる可能性が出てきた。スロバキアは初めて国民規模でそのような戦略を実施した国であるが、この大規模検査の効果について報告する。大規模検査は3回行われた。１回目は四つの郡での試験導入、２回目は国民規模で実施し、２回目は高い感染率のままであった45郡で実施した。実施前の週には移動や接触の制限が課されていた。大規模検査を移動・接触制限などと組み合わせると感染の蔓延を急減少させられると結論づけている。
+
+* `Coronavirus (COVID-19) Update: FDA Authorizes Antigen Test as First Over-the-Counter Fully At-Home Diagnostic Test for COVID-19 <https://www.fda.gov/news-events/press-announcements/coronavirus-covid-19-update-fda-authorizes-antigen-test-first-over-counter-fully-home-diagnostic>`_ (2020/12/15)
+
+  * 処方箋なしで家庭で検査できる抗原検査キットの緊急使用をFDAが認可した。キットはドラッグストアで購入でき、綿棒で鼻を拭って検査して20分後には結果が出るとのこと。偽陽性や偽陰性に気をつけなさいとのこと。PCRなどよりは感度も特異度も劣る。抗原検査で陽性になった場合は、他の検査できちんと検査を受けて確かめる必要がある。
+
+* `新型コロナウィルスのNow!!! <https://drive.google.com/file/d/11bRUaEDyN-YFttVD1TKNAsiKP5ckbsqM/view>`_ (2020/12/10)
+
+  * スライド34ページ: 「人口の5％に毎週PCRを施行することによって減らせる感染者数は2％の感染減; 対して、ソーシャルディスタンスと自己隔離、家族の検疫では29％ー64％の感染減」とのこと。参照論文は `Effectiveness of isolation, testing, contact tracing, and physical distancing on reducing transmission of SARS-CoV-2 in different settings: a mathematical modelling study <https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30457-6/fulltext>`_ とのこと。
+  * スライド35ページ: PCR検査は、「結局たくさんやっても金と時間と人がかかる割に感染対策効果が弱い（やってるアピールにしかならない）」とのこと。
+  * スライド36ページ: 「感度が高くても時間がかかり何度も出来ない検査よりも、感度が低いけど時間が掛からず何度も出来る検査の方が良い」とのこと。
+  * スライド37ページ: 「安くてどこでも買えるキット」というページで、ホームセンターで安価に買える抗原検査キットや安価なPCR検査に対する注意喚起をしている。少なくとも現時点ではそういったものを信用していないとのこと。
+
+* `Real-life validation of the Panbio™ COVID-19 antigen rapid test (Abbott) in community-dwelling subjects with symptoms of potential SARS-CoV-2 infection <https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30421-1/fulltext>`_ (2020/12/5)
+
+  * 抗原検査の製品の評価をした論文。
+
 2020-11-26
 -----------
 
