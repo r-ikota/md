@@ -20,10 +20,10 @@
 
   * 8人の専門家に、コロナ抑制のための四つの鍵となる領域（マスク、検査、ワクチン、学校）にバイデン政権が取り組むに当たってアドバイスを尋ねた。検査については、ブラウン大学の Jha 博士とハーバード大学の Mina 博士に尋ねている。ブラウン大学では週に２回の検査でコロナを抑え込めているらしい。Mina 博士は迅速抗原検査について解説している。
 
-  * `rapid Covid-19 test to schools and workplaces nationwide <https://www.cnbc.com/2021/01/12/abbott-labs-rolls-out-rapid-covid-test-to-us-schools-and-workplaces.html>`_ (2021/01/12)
+* `rapid Covid-19 test to schools and workplaces nationwide <https://www.cnbc.com/2021/01/12/abbott-labs-rolls-out-rapid-covid-test-to-us-schools-and-workplaces.html>`_ (2021/01/12)
 
-    * Abbott 社では、迅速抗原検査キットを学校、大学、薬局、職場に供給すべく準備しているらしい。
+  * Abbott 社では、迅速抗原検査キットを学校、大学、薬局、職場に供給すべく準備しているらしい。
 
-  * `Fast Coronavirus Tests: What They Can and Can’t Do <https://www.scientificamerican.com/article/fast-coronavirus-tests-what-they-can-and-cant-do/>`_ (2020/11/19)
+* `Fast Coronavirus Tests: What They Can and Can’t Do <https://www.scientificamerican.com/article/fast-coronavirus-tests-what-they-can-and-cant-do/>`_ (2020/11/19)
 
-    * 迅速抗原検査についての解説。
+  * 迅速抗原検査についての解説。
