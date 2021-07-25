@@ -1,5 +1,30 @@
 2021 (Japanese)
 ===============
+2021-07-25
+----------
+
+気になった記事
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+* `7 children admitted to ICU's in low-vax Mississippi after coming down with severe cases of COVID-19 <https://www.businessinsider.com/seven-mississippi-children-in-intensive-care-units-with-covid-19-2021-7>`_  (2021/07/17)
+
+  * デルタ株に対しても依然として子供は重症化しづらいが、それでもミシシッピ州で7人の子供がコロナ感染のために ICU に入っているとのこと。ワクチン接種率が低いために子供たちが危険に晒されていると専門家が危惧している。
+
+* `コロナワクチン接種 20代と30代女性｢様子見たい｣約40％ <https://www.nhk.or.jp/shutoken/newsup/20210720c.html>`_ (2021/07/20)
+
+  * 副反応を心配する人が多いらしい。
+
+* `Five reasons why COVID herd immunity is probably impossible <https://www.nature.com/articles/d41586-021-00728-2>`_ (2021/03/18)
+
+  * 集団免疫の獲得は多分不可能とのこと。
+
+* `Mass infection is not an option: we must do more to protect our young <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)01589-0/fulltext>`_ (2021/07/07)
+
+  * コロナ第３波がイギリスを襲う中、イギリス政府は規制をさらに緩めようとしている。これはワクチンによって感染しても死なないということが暗黙の前提になっている。2021年7月19日にほぼ全ての規制を撤廃することになっているが、著者らはこの決定は危険だと考えている。規制を撤廃すると、さらに数百万人が感染するまで感染者の指数的増加は続き、その結果、数十万人に長期の病状が出たり障害を残したりする。政府のこの戦略は長期の健康問題や障害を抱える世代を生み出す危険がある。などなど書いてある。
+
+* `国債は将来世代の負担なのか 門間一夫 みずほリサーチ&テクノロジーズ エグゼクティブエコノミスト <https://www.nikkei.com/article/DGKKZO72552650T00C21A6TCR000/>`_ (2021/06/04)
+
+  * 国債残高が積み上がることが将来世代への負担になると言う見方に対して疑問を呈し、その理由を三つ述べている。負担の公平性についてしっかり考える必要があるといった趣旨のことが書いてある。
 
 2021-05-17
 -----------
