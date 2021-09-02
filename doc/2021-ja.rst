@@ -1,6 +1,35 @@
 2021 (Japanese)
 ===============
 
+2021-09-03
+----------
+
+抗原検査について
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+以下、抗原検査に関連した論文。
+
+* `Use of Rapid Antigen Testing for SARS-CoV-2 in Remote Communities Yukon-Kuskokwim Delta Region, Alaska, September 15, 2020–March 1, 2021 <https://www.cdc.gov/mmwr/volumes/70/wr/mm7033a3.htm>`_ Weekly / August 20, 2021 / 70(33);1120–1123
+
+  * アラスカのようなところでは、検査機関に検体を送るような検査では結果が得られるまでに時間がかかる。ワクチン導入前のことであるが、BinaxNow 抗原検査を導入したところ、1日の新規感染者数が1ヶ月の間に3分の1になったとのこと。ただし、対照群があるわけではないので、検査以外の効果もあったかも知れない。また、陰性になった人が勘違いして次の検査まで自己隔離しなくていいと思ってしまうと言う問題もあった。などなど書いてある。
+
+* `Validation of an At-Home Direct Antigen Rapid Test for COVID-19 <https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2783550>`_ JAMA Netw Open. 2021;4(8):e2126931
+
+  * 週２回の抗原検査（どの製品かは不明。どこかに書いてあるのかも）を家庭で実施してもらって効果を調べたとのこと。家庭でできる頻繁な抗原検査は、リモートではない職場環境でのウィルス伝播を防いでくれるかも知れない。
+
+* `Multidisciplinary assessment of the Abbott BinaxNOW SARS-CoV-2 point-of-care antigen test in the context of emerging viral variants and self-administration <https://www.nature.com/articles/s41598-021-94055-1>`_ Scientific Reports volume 11, Article number: 14604 (2021)
+
+  * 自己検査では使い方が悪くなりがちで感度が落ちる傾向があるようだ。しかし `感度より頻度と結果が返ってくるまでの時間の方が大事 <https://www.science.org/doi/10.1126/sciadv.abd5393>`_ と言う話もあるようだ。
+
+
+コロナの感染性について
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+次の論文を拾い読みしたところによると、感染性はウィルス量だけでは決まらず、中和抗体の量などにも影響を受けるらしい。同じウィルス量でもワクチン接種者は中和抗体を持っているので非接種者に比べて感染性は小さい傾向があると言うことなのかも知れない。
+
+* `Virological characteristics of SARS-CoV-2 vaccine breakthrough infections in health care workers <https://www.medrxiv.org/content/10.1101/2021.08.20.21262158v1>`_ medRxiv, Posted August 21, 2021.
+* `Duration and key determinants of infectious virus shedding in hospitalized patients with coronavirus disease-2019 (COVID-19) <https://www.nature.com/articles/s41467-020-20568-4>`_ Nat Commun 12, 267 (2021)
+
 2021-08-29
 ----------
 
