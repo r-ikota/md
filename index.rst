@@ -17,6 +17,7 @@ Blog or something like that
    doc/2019-12-en
    doc/lab/index
    doc/notebook/sample-200907
+   doc/cheat_sheet/git
    doc/license
 
 
