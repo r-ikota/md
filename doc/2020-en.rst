@@ -63,7 +63,7 @@ This would also reduce workloads of both applicants and assessment panels.
 I made `a cookiecutter template <https://github.com/r-ikota/cc-jupyter-docker>`_ for Jupyter Docker containers.
 
 P.S. (2020/02/22)：
-~~~~~~~~~~~~~~~~~~~~
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 I have renamed the repository because it was lengthy.
 
