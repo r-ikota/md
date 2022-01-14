@@ -10,13 +10,14 @@ Blog or something like that
    :maxdepth: 2
    :caption: Contents:
 
+   doc/2022-ja
    doc/2021-ja
    doc/2020-ja
    doc/2020-en
    doc/2019-12-ja
    doc/2019-12-en
    doc/lab/index
-   doc/notebook/sample-200907
+   doc/notebook/index
    doc/cheat_sheet/git
    doc/license
 
