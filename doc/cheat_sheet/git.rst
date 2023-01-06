@@ -34,6 +34,12 @@ Unstaging a file while keeping it in the working tree
 
     $ git reset [file]
 
+Canceling the previous commit while keeping the working tree
+
+.. code-block:: bash
+
+    $ git reset --soft HEAD^
+
 Discarding a change to a file
 
 .. code-block:: bash
@@ -66,3 +72,9 @@ Showing the commit ID of HEAD
 
    $ git rev-parse HEAD
 
+Retrieving files from a repository without cloaning it
+
+
+.. code-block:: bash
+
+    $ git archive --format tar --remote [path] HEAD | tar xvf - 
