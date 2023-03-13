@@ -4,7 +4,7 @@
 マスクとランダム化比較試験（2023-03-13）
 ----------------------------------------------
 
-SNS でコロナ情報を積極的に発信している Topol 教授が Marr 教授をゲストに迎えてコロナ対策としての空気清浄の重要性について語り合った（`To Stop COVID, We Must Clean Up Our Air <https://www.medscape.com/viewarticle/984232>`_）。
+SNS でコロナ情報を積極的に発信している Topol 教授が Marr 教授をゲストに迎えてコロナ対策としての空気清浄の重要性について語り合った（ `To Stop COVID, We Must Clean Up Our Air <https://www.medscape.com/viewarticle/984232>`_ ）。
 Marr 教授は十数年間に渡ってインフルエンザの伝染について研究してきたという。
 このトークではエアロゾル感染をする病気を防ぐ上での **換気、加湿、マスク着用** の重要性などが語られている。
 
