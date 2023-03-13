@@ -27,7 +27,6 @@ sphinx:
 python:
   #  install:
   #  - requirements: docs/requirements.txt
-  version: 3
   install:
     - requirements: config_rtd/requirements.txt
   system_packages: true
