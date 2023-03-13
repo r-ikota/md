@@ -1,6 +1,6 @@
-Sphinx>=3.5.4
+Sphinx>=3.1.2
 ipykernel
-nbsphinx>=0.8.3
+nbsphinx
 Pygments>=2.7.4
 pygments-pytest>=2.1.0
 
