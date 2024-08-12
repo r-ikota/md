@@ -29,4 +29,4 @@ python:
   #  - requirements: docs/requirements.txt
   install:
     - requirements: config_rtd/requirements.txt
-  system_packages: true
+  # system_packages: true
