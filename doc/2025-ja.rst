@@ -4,6 +4,8 @@
 経常収支のことを ChatGPT に聞いてみた（2025-02-16）
 -------------------------------------------------------------------
 
+(2025-02-16 14:30 訳を修正)
+
 `クルーグマン マクロ経済学 <https://www.amazon.co.jp/クルーグマンマクロ経済学-ポール・クルーグマン/dp/4492313974>`_ の第19章をパラパラめくっていたらアメリカの経常収支（勘定）について書かれていた。
 それによると2004年のアメリカの財・サービス収支は6,180億ドル(GDPの5.3%)の赤字で経常収支はそれを上回る6,680億ドルの赤字だったとのこと。
 この赤字は資産を輸出することによる金融収支の黒字で相殺されるという。
@@ -13,7 +15,7 @@
 
     Investments in a country are often financed by capital inflows. These inflows can compensate for a current account deficit, which means that a nation can have a deficit in its current account while still maintaining strong economic growth and investment levels, as long as it attracts sufficient foreign investment.
 
-    一国における投資はしばしば資本流入によって賄われる。これらの流入は経常収支の赤字で相殺される。十分な海外からの投資を引き付ける限り、こういった相殺は、国は経常収支の赤字を抱えるが同時に強い経済成長と投資水準を維持することも意味する。
+    一国における投資はしばしば資本流入によって賄われる。これらの流入は経常収支の赤字を埋め合わせる。十分な海外からの投資を引き付ける限り、こういった埋め合わせは、国は経常収支の赤字を抱えるが同時に強い経済成長と投資水準を維持することも意味する。
 
 確かに、借金しても（投資を受け入れても）儲けを増やして（経済を成長させて）いる限りは帳尻は合いそうではある。
 
