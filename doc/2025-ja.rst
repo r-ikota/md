@@ -1,6 +1,34 @@
 2025年
 =========
 
+一般政府財政収支(2025/11/13)
+---------------------------------------------------
+
+.. image:: images/img_251113.png
+    :width: 80%
+
+上記は一般政府財政収支対GPD比 [#251113]_ (OECD
+`Public finance and budgets <https://www.oecd.org/en/topics/public-finance-and-budgets.html>`_
+より。クリックで拡大)。ここにある多くの国でマイナスになっている。
+
+財政収支について次のように説明されている：
+
+    The fiscal balance is the difference between a government’s revenues and its expenditures. It signals if public accounts are balanced or if there are surpluses or deficits. Recurrent deficits over time imply the accumulation of public debt and may send worrying signals to consumers and investors about the sustainability of public accounts which, in turn, may deter consumption or investment decisions. Nonetheless, if debt is kept at a sustainable level, deficits can help to finance necessary public investment, or in exceptional circumstances, such as unexpected external shocks (e.g. pandemics, wars or natural disasters), can contribute to maintaining living conditions and preserving social stability. 
+
+**拙訳**
+
+    | 財政収支は政府の歳入と歳出の差である。公的会計が均衡しているかどうか、あるいは余剰があるか赤字があるかどうかを財政収支は示す。時間をかけて繰り返す赤字は公的債務が積み上がることを意味し、消費者や投資家にとって憂慮すべき兆候と受け取られかねず、消費や投資を控えさせてしまうかも知れない。
+    | 
+    | それにも関わらず、もし債務が持続可能な水準に保たれるならば、赤字は必要な公的投資を賄うのに役立ち、また、予想外の外的ショック（例えばパンデミック、戦争、自然災害など）などの例外的な状況では生活状況を維持し社会的安定を守るのに貢献することができる。
+
+基礎的財政収支の単年度黒字化を目指さないという方針は実に普通のことのように思える。
+
+.. rubric:: 注
+
+.. [#251113] 一般政府財政収支は中央政府、地方政府、社会保障基金を合わせたものについての歳入から歳出を引いたもの
+
+
+
 
 科学における異端(2025/10/31)
 ----------------------------------------------------------------
