@@ -10,6 +10,7 @@ Blog or something like that
    :maxdepth: 2
    :caption: Contents:
 
+   doc/2026-ja
    doc/2025-ja
    doc/2024-ja
    doc/2023-ja

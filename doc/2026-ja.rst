@@ -1,0 +1,21 @@
+2026年
+======================
+
+
+再現性（2026/01/12）
+----------------------------------------
+
+`The Feynman Lectures on Physics Vol. I Ch. 52: Symmetry in Physical Laws <https://www.feynmanlectures.caltech.edu/I_52.html>`_ でファインマンは次のように書いている：
+
+    The first thing we might try to do, for example, is to *translate* the phenomenon in space.
+    If we do an experiment in a certain region, and then build another apparatus at another place in space (or move the original one over) then, whatever went on in one apparatus, in a certain order in time, will occur in the same way if we have arranged the same condition, with all due attention to the restrictions that we mentioned before: that all of those features of the environment which make it not behave the same way have also been moved over—we talked about how to define how much we should include in those circumstances, and we shall not go into those details again.
+
+実験が再現されるには同じ条件を整える必要があるが、どのくらい「同じ」にすべきなのか、どのくらい「同じ」にできるのかと言う問題の詳細についてファインマンは言及を避けている。それはそうであろう。そんなことにこだわり出したら収集がつかなくなる。
+
+物理学や化学では「同じ」条件を整えて実験結果を再現することは比較的簡単だろうが、心理学、経済学、生物学などでは難しいことが多いだろう。心理実験などでは、被験者は実験前と後とで状態が変わってしまっているから同じ実験を同じ人に繰り返しても意味がなかろう。
+
+数十年前に数学セミナーを読んでいて、チューリングの母が語ったという、アランが子供の頃のエピソードを知った。（私の記憶が確かならば）アランは同じものを見たり聞いたりしてもその時の心の状態によって反応の仕方が異なるということに気づいたらしく、そのことがチューリングマシンの発想につながったのではないかとの見解が書かれていた。
+
+ステートマシンはまさにそう言うもので、内部の状態によってインプットに対するアウトプットが異なる。これが少なからぬ人のストレスとなるらしく、純粋な関数型言語では入力が同じなら出力が常に同じになることがアピールされたりもする。
+
+状態というのはコンテキストの一種だろう。いちいち言わなくてもわかるでしょという。いちいち言わなくて良いのは楽だが、はっきり言わないせいで誤解の元になることもある。
